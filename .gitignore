@@ -4,8 +4,9 @@
 # ========================
 
 # Data files (중요: .mat 업로드 방지)
-data/
+data/*.mat
 *.mat
+
 
 # Autosave / temp
 *.asv
